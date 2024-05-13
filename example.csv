@@ -1,0 +1,10 @@
+ID,Type,Source Priority,Destination Priority,Exclude from Injest Priority Destinations
+1,std,,,
+2,std_3g,,,
+3,std_3g_in,,,
+4,std_3g_out,,,
+5,mv,,,
+6,hz,,,
+7,hz,x,,
+8,mv,,x,
+9,std,,,x
